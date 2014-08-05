@@ -1,7 +1,9 @@
 This is a read me file.
 
-This is a file.
+This is a change related to feature 1
 
-Read me files are a way to introduce your repo to the world.
+This is a document.
+
+Read me files are a way to intruduce your repo to the world.
 
 More file.
