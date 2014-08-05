@@ -16,6 +16,8 @@ Read me files are a way to intruduce your repo to the world.
 
 More file.
 
+Nick Tinsley
+
 A few more things...
 
 This is a document.
